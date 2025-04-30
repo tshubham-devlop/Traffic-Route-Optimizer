@@ -1,0 +1,11 @@
+osmnx
+networkx
+folium
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
+requests
+geopandas
+shapely
